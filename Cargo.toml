@@ -38,7 +38,7 @@ pretty_env_logger = "0.4"
 chrono = { version = "0.4", features = ["serde"] }
 eyre = "0.6"
 structopt = "0.3"
-directories = "3"
+directories = "5"
 indicatif = "0.16.2"
 serde_derive = "1.0.125"
 serde = "1.0.126"
